@@ -126,8 +126,8 @@ Further heat treatment of the final product is typically carried out only if the
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SUDHARSANA KUMAR S R
+### Register Number: 23007374
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
